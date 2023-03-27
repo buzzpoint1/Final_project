@@ -21,8 +21,16 @@ df = pd.read_csv("~/Desktop/Final_Projectt/monthly_SingleHome_family.csv")
 df.head()
 
 
+# In[10]:
+
+
+plt.figure(figsize=(12,4),dpi=200)
+sns.scatterplot(x=df['Median Sale Price'],
+                y=df['Average Sale Price'])
+
+
 # In[ ]:
 
 
-plt.figure(figsize=(12,4))
+
 
