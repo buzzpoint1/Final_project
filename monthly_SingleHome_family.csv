@@ -1,7 +1,7 @@
 Date,Median_Sale_Price,Average_Sale_Price,County
 1-Jan,393638.73,646535.35,Fairfield
 1-Feb,374604.75,652568.27,Fairfield
-1-Mar,400118.38,619265.04,Fairfield
+1-Mar,0,619265.04,Fairfield
 1-Apr,396878.55,617362.17,Fairfield
 1-May,427616.39,613559.53,Fairfield
 1-Jun,453575.49,689000.49,Fairfield
@@ -37,7 +37,7 @@ Date,Median_Sale_Price,Average_Sale_Price,County
 3-Dec,529941.74,751867.16,Fairfield
 4-Jan,516172.46,796876.58,Fairfield
 4-Feb,498713.69,781610.05,Fairfield
-4-Mar,508581.69,750256.95,Fairfield
+4-Mar,0,750256.95,Fairfield
 4-Apr,557162.63,879050.62,Fairfield
 4-May,563994.33,882326.76,Fairfield
 4-Jun,599670.95,909539.2,Fairfield
@@ -142,7 +142,7 @@ Date,Median_Sale_Price,Average_Sale_Price,County
 12-Sep,455946.97,755897.75,Fairfield
 12-Oct,415973.54,635706.7,Fairfield
 12-Nov,443455.28,694466.96,Fairfield
-12-Dec,462192.82,889637.84,Fairfield
+12-Dec,0,889637.84,Fairfield
 13-Jan,369336.57,633861.01,Fairfield
 13-Feb,390881.2,709663.55,Fairfield
 13-Mar,400114.62,649497.82,Fairfield
@@ -158,7 +158,7 @@ Date,Median_Sale_Price,Average_Sale_Price,County
 14-Jan,391633.46,629996.15,Fairfield
 14-Feb,363464.93,620459.37,Fairfield
 14-Mar,363464.93,595636.94,Fairfield
-14-Apr,426569.71,667152.96,Fairfield
+14-Apr,0,667152.96,Fairfield
 14-May,450696.51,729856.65,Fairfield
 14-Jun,509911,765573.79,Fairfield
 14-Jul,502793.15,777957.99,Fairfield
@@ -253,7 +253,7 @@ Date,Median_Sale_Price,Average_Sale_Price,County
 21-Dec,497451.8,749369.46,Fairfield
 22-Jan,428000,688525.78,Fairfield
 22-Feb,418000,662587.31,Fairfield
-22-Mar,450000,700287.02,Fairfield
+22-Mar,450000,0,NA
 22-Apr,490000,766708.64,Fairfield
 22-May,511500,774102.4,Fairfield
 22-Jun,569000,908726.87,Fairfield
@@ -261,7 +261,7 @@ Date,Median_Sale_Price,Average_Sale_Price,County
 22-Aug,545000,874709.65,Fairfield
 22-Sep,510000,739345.67,Fairfield
 22-Oct,485000,705269.99,Fairfield
-1-Jan,204918.92,238425.89,Hartford
+1-Jan,0,238425.89,Hartford
 1-Feb,210588.62,254943.84,Hartford
 1-Mar,205728.88,246246.94,Hartford
 1-Apr,218688.18,258598.18,Hartford
@@ -278,7 +278,7 @@ Date,Median_Sale_Price,Average_Sale_Price,County
 2-Mar,223066.35,270639.44,Hartford
 2-Apr,215253.45,253080,Hartford
 2-May,227052.52,266741.62,Hartford
-2-Jun,239170.5,295993.74,Hartford
+2-Jun,239170.5,0,Hartford
 2-Jul,246345.61,296424.78,Hartford
 2-Aug,261493.08,309074.95,Hartford
 2-Sep,247142.85,295923.49,Hartford
@@ -610,7 +610,7 @@ Date,Median_Sale_Price,Average_Sale_Price,County
 8-Jan,292049.08,405990.92,Litchfield
 8-Feb,326423.47,404221.46,Litchfield
 8-Mar,352404.12,431540.69,Litchfield
-8-Apr,291782.62,369928.84,Litchfield
+8-Apr,0,369928.84,Litchfield
 8-May,299776.66,395203.24,Litchfield
 8-Jun,275128.36,367270.7,Litchfield
 8-Jul,288285.22,372613.75,Litchfield
