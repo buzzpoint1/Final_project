@@ -217,7 +217,7 @@ dfgoog['Total Traded']= dfgoog['Open']*dfgoog['Volume']
 dfgoog
 
 
-# In[463]:
+# In[469]:
 
 
 #plotting Total traded for my stocks 
@@ -225,15 +225,48 @@ dfaapl['Total Traded'].plot(label='Apple Total Price Traded', figsize=(16,5))
 dfgoog['Total Traded'].plot(label='Google Total Price Traded')
 
 plt.legend()
-plt.title(' Total Stokcs')
+plt.title(' Total Stokcs Traded')
 plt.ylabel('Total Stock Traded')
 plt.show()
+#
 
 
-# In[ ]:
+# In[467]:
 
 
+#Apple maximum Open price
 
+print(dfaapl.Open.max())
+
+
+# In[468]:
+
+
+#what Row has the maximum open price
+
+print(dfaapl[dfaapl.Open == dfaapl.Open.max()])
+
+
+# In[472]:
+
+
+# I would like to know when the peak of total traded happened for Apple Stock
+# first where where exactly in data is the highest point
+
+dfaapl['Total Traded'].argmax()
+
+# when happened
+dfaapl.iloc[[dfaapl['Total Traded'].argmax()]]
+
+
+# In[473]:
+
+
+#Now Same  peak for Google Stock
+dfgoog['Total Traded'].argmax()
+
+# when happened
+dfgoog.iloc[[dfgoog['Total Traded'].argmax()]]
 
 
 # In[ ]:
