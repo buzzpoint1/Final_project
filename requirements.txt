@@ -1,11 +1,15 @@
-First Import all these libraries
 
 
-import pandas as pd
-import seaborn as sns
-import matplotlib.pyplot as plt
-import numpy as np
-import matplotlib
-import csv
-import datetime as dt
-import matplotlib.dates as dates
+1  pandas
+
+2  seaborn
+
+3  matplotlib.pyplot
+
+4  numpy
+
+5  csv
+
+6  matplotlib.dates
+
+7  datetime
