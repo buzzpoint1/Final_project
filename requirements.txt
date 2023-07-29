@@ -15,3 +15,19 @@
 7  datetime
 
 Import these
+
+
+import pandas as pd
+import seaborn as sns
+sns.set(color_codes=True)
+import matplotlib.pyplot as plt
+import numpy as np
+import matplotlib
+import csv
+import datetime as dt
+import matplotlib.dates as dates
+import pandasql as ps
+from pandasql import sqldf
+import sqlite3
+from copy import deepcopy
+from pandas import Series, DataFrame
