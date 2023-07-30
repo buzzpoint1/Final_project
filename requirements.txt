@@ -15,9 +15,22 @@
 7  datetime
 
 8-- Should install updated seaborn  by pip install seaborn --upgrade
+***********************************************************
+FOR INTERACTIVE VISUALIZATION DASHBOARD 
+
+9-  should install pip install pywedge
 
 Import pywedge as pw
 
+
+*********************************************
+
+Import bokeh
+
+from bokeh.io import output_notebook
+from bokeh.plotting import figure,show
+
+************************************************
 Import these
 
 
@@ -35,3 +48,6 @@ from pandasql import sqldf
 import sqlite3
 from copy import deepcopy
 from pandas import Series, DataFrame
+import pywedge as pw
+from bokeh.io import output_notebook
+from bokeh.plotting import figure,show
