@@ -1,4 +1,4 @@
-
+*** sometimes it shows data not defined. just go back up and start running one by one 
 
 1  pandas
 
@@ -13,6 +13,8 @@
 6  matplotlib.dates
 
 7  datetime
+
+8-- Should install updated seaborn  by pip install seaborn --upgrade
 
 Import these
 
