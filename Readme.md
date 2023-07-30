@@ -2,8 +2,16 @@ Different Stock Comparision and Average House Value Project
 
 Overview:
 
-Building New Project on top of this project 1
+Building Final Project on top of this project 1
+This final Project for final class, I used files from previous project and also added new files
+Also, I have scrapped data off WikiPedia for tables and used that, also added Bokeh, joined two tables, Interactive Dashboard, and seaborn 
 
+
+
+
+
+
+First Project
 This project is about comparing two stocks to see if we can make informed decision based on one stock to buy another stock. Also this project is finding out the average sales value in an area.
 
 Requiremnts;
