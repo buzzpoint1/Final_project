@@ -16,6 +16,8 @@
 
 8-- Should install updated seaborn  by pip install seaborn --upgrade
 
+Import pywedge as pw
+
 Import these
 
 
